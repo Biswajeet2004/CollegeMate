@@ -1,1 +1,1 @@
-# CollegeMate
+# CollegeMate.io
